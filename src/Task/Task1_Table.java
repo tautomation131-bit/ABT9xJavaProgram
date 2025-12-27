@@ -1,6 +1,6 @@
 package Task;
 
-public class Task1 {
+public class Task1_Table {
     public static void main(String[] args) {
         System.out.println("10*1=10");
         System.out.println("10*2=20");
